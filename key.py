@@ -1,0 +1,5 @@
+import keyword
+
+keyword.kwlist
+
+
